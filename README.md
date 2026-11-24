@@ -27,11 +27,12 @@ output directory; run it twice and both runs write the same bytes.
    the first World Cup on British soil since 1966. Four nations, 48 teams,
    19 venues.
 
-Around the world: the Thai–Cambodia border truce holds; Burnham defends
-the EU reset deal in the Commons; an AI breast-screening trial invites
-nearly 700,000 women in England; Tyson Fury reveals a schizophrenia
-diagnosis; Malaysia will send thousands of Myanmar migrants home; the UN
-warns trade-route disruption puts food aid for 7.3 million at risk.
+Around the world: a day after COP31's collapse, debate opens on scrapping
+the consensus rule at climate talks; Burnham defends the EU reset deal in
+the Commons; an AI breast-screening trial invites nearly 700,000 women in
+England; Tyson Fury reveals a schizophrenia diagnosis ahead of his Joshua
+fight; the US Army will detonate 68 drums of degraded explosives in Iowa;
+the UN warns trade-route disruption puts food aid for 7.3 million at risk.
 
 ## How it is made
 
